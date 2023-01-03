@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Приветствие
+
 user=$(whoami)
 
 echo "Hello $user"
