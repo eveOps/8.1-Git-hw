@@ -13,3 +13,4 @@ os=$(hostnamectl | grep Operating)
 echo "Your $os"
 #git puch1
 #git puch2
+#git puch3
